@@ -18,7 +18,7 @@
 <shape xmlns:android="http://schemas.android.com/apk/res/android"
     android:shape="oval">
     <solid
-        android:color="@color/privacy_chip_background"/>
+        android:color="@color/accent_device_default_light"/>
     <size
         android:width="@dimen/ongoing_appops_dot_diameter"
         android:height="@dimen/ongoing_appops_dot_diameter"

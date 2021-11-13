@@ -271,7 +271,8 @@
     <color name="screenrecord_status_color">#E94235</color>
     <color name="screenrecord_icon_color">#D93025</color><!-- red 600 -->
 
-    <color name="privacy_chip_background">#3ddc84</color>
+    <!-- Privacy indicators -->
+    <color name="accent_device_default_light">@*android:color/accent_device_default_light</color>
 
     <!-- Accessibility floating menu -->
     <color name="accessibility_floating_menu_background">#CCFFFFFF</color> <!-- 80% -->
